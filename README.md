@@ -1,4 +1,3 @@
-README
 👋 ¡Hello! I'm Raúl
 
 - 💻 Full-Stack Developer | AI Enthusiast
