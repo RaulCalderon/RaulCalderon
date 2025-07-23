@@ -2,7 +2,7 @@ README
 👋 ¡Hello! I'm Raúl
 
 - 💻 Full-Stack Developer | AI Enthusiast
-- 🛠️ [![My Skills](https://skillicons.dev/icons?i=php,py,js,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,py,js,mysql,html,css)](https://skillicons.dev)
 - 🤖 Interested on Machine Learning and Automation
 - 🌎 Hermosillo, México
 
